@@ -1,7 +1,7 @@
 <?php
-//Calcul_v1
+//Calcul_v3
 //Programme qui calcule le prix d'une commande.
-//Auteur : MAISONNAVE Jean (chef de projet), Ahamendaburu Eñaut
+//Auteurs : MAISONNAVE Jean (chef de projet), Ahamendaburu Eñaut
 //Date :  26/10/2018
 //Declaraton des variables : Pas nécessaire sur php
 
